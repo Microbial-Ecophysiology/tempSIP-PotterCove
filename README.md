@@ -42,3 +42,6 @@ Mapping files for sequence analysis can be found [here](small_data)
 
 Files with some metadata needed to run the scripts can be found [here](small_data) and in the supplementary of the manuscript.
 
+<br/><br/>
+---
+This project was funded by the DFG-Schwerpunktprogramm - Antarktisforschung ([SPP 1158](https://www.spp-antarktisforschung.uni-rostock.de/))
